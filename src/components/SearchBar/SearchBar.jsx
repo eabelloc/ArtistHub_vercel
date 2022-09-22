@@ -1,5 +1,3 @@
-import "./Searchbar.css";
-
 const SearchBar = ({ setFilterUser }) => {
   return (
     <div className="searchBox">

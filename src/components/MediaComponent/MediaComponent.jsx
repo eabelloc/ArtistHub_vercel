@@ -66,7 +66,7 @@ const MediaComponent = ({ media }) => {
               </a>
             </div>*/}
             <div className="about">
-              <h3>About</h3>
+              <h3>Medias</h3>
             </div>
           </div>
         </div>

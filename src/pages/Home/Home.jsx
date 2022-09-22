@@ -29,7 +29,7 @@ const Home = () => {
             </div>
             <div>
               <h2>Customer</h2>
-              <p>Lorem ipsum lorem ipsum</p>
+              <p>Find artists you are interested in!</p>
             </div>
           </figure>
           <figure className="user_figure">
@@ -38,7 +38,7 @@ const Home = () => {
             </div>
             <div>
               <h2>Musician</h2>
-              <p>Lorem ipsum lorem ipsum</p>
+              <p>Compose whatever you want!</p>
             </div>
           </figure>
           <figure className="user_figure">
@@ -47,7 +47,7 @@ const Home = () => {
             </div>
             <div>
               <h2>Plastic Artist</h2>
-              <p>Lorem ipsum lorem ipsum</p>
+              <p>Paint great works of art!</p>
             </div>
           </figure>
 
@@ -57,7 +57,7 @@ const Home = () => {
             </div>
             <div>
               <h2>Designer</h2>
-              <p>Lorem ipsum lorem ipsum</p>
+              <p>Design whatever you imagine!</p>
             </div>
           </figure>
         </div>

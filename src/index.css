@@ -14,7 +14,7 @@
   --button-color-font-hover: rgb(108, 69, 250) 0;
   --highlight: rgba(252, 176, 69, 0.508);
   --highlight-header: rgba(255, 255, 255, 0.322);
-  --logo: url("../../../public/assets/ArtistHub-logo.png");
+  --logo: url("/assets/ArtistHub-logo.png");
 }
 
 /*body {

@@ -1,0 +1,18 @@
+{
+    "routes": [
+        { "src": "/", "dest": "/" },
+        { "src": "/login", "dest": "/" },
+        { "src": "/register", "dest": "/" },
+        { "src": "/profile", "dest": "/" },
+        { "src": "/profile/newproject", "dest": "/" },
+        { "src": "/profile/newmedia", "dest": "/" },
+        { "src": "/profile/projects/:id", "dest": "/" },
+        { "src": "/profile/medias/:id", "dest": "/" },
+        { "src": "/artists/projects/:id", "dest": "/" },
+        { "src": "/artists/medias/:id", "dest": "/" },
+        { "src": "/artists", "dest": "/" },
+        { "src": "/artists/:username", "dest": "/" },
+        { "src": "/[^.]+", "dest": "/", "status": 200 }
+    
+    ]
+  }
